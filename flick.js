@@ -25,4 +25,5 @@ var flattenArray = function(array){
   });
   return flatArray;
 };
+console.log(rawArray);
 console.log(flattenArray(rawArray));
